@@ -1,11 +1,11 @@
-This is the zeroeth prototype noobtotype to be published.
+This is the zeroeth prototype to be published.
 
 It consists of two parts.
 
     Setting up a functioning website, which I did just yesterday 2025-05-28.
     Writing this post, for myself and for others to see how future posts will be.
 
-Why this noobtotype
+Why this prototype
 
 "To host them all."
 
@@ -40,7 +40,7 @@ Another reason is I that I like the community.
 Decision made.
 What next?
 
-First, it needs to link to my socials (still to be created) and to have more basic functionality. But that is the point of a noobtotype, to consider it done before it actually is.
+First, it needs to link to my socials (still to be created) and to have more basic functionality. But that is the point of a prototype, to consider it done before it actually is.
 
 I will also soon decide whether to get my own domain or not. Do I need more than 1GB of files? How findable should the website be? Shall I assume the periodical costs? I have almost decided that the free option suffices for now.
 
